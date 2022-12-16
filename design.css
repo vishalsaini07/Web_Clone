@@ -191,11 +191,10 @@ gap: 50px;
 .features-card{
     flex-direction: column;
     gap: 20px;
-    max-width: 30%;
     text-align: center;
 }
 .features-area{
-    flex-wrap: wrap;
+    
     justify-content: space-between;
     gap: 40px;
 }
